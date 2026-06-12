@@ -78,6 +78,7 @@ The design supports consecutive APB transactions without returning to the IDLE s
 ## Simulation Results
 
 ![Simulation](images/Simulation.png)
+
 Other test cases simulation results are in the report.
 
 
